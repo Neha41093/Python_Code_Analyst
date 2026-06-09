@@ -1,4 +1,4 @@
-# Deploy the Python Analyst AI Studio app
+# Deploy the Python Analyst app
 
 This contains everything you need to run your app locally.
 
