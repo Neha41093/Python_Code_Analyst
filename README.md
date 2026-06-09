@@ -1,5 +1,7 @@
 # Deploy the Python Analyst app
 
+Use the Analyst app to understand Python code snippets, provide metrics and a summary, and answer your questions.
+
 This contains everything you need to run your app locally.
 
 **Existing URL: https://python-code-analyst-204522342353.us-west1.run.app/**
